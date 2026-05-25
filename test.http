@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/process-email
+Content-Type: application/json
+
+{
+  "sender": "mileuskiarsen@gmail.com",
+  "subject": "Problem mit der Ergänzungsprüfung",
+  "body": "Hallo ÖH Team! Ich versuche mich für die Ergänzungsprüfung Mathematik anzumelden, aber das System in MU Online wirft immer einen unbekannten Fehler (Code 500) aus. Könnt ihr das manuell prüfen?"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "oeh-ai-dispatcher",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@google/genai": "^2.6.0",
+    "dotenv": "^17.4.2",
+    "nodemailer": "^8.0.8"
+  }
+}
