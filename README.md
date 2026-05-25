@@ -60,9 +60,9 @@ An escalation notification has been sent to the employee.
 ```
 
 ## 🚀 Quick Start
-Clone the repository. 
+Clone the repository: ```https://github.com/wrincied/oeh-ai-email-dispatcher.git```
 
-Install dependencies:
+**Install dependencies**:
 
 ``` npm install ```
 
